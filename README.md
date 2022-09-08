@@ -9,9 +9,6 @@ Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end 
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182483558-499ad227-69c3-4323-b4f5-abab4942dade.gif" width="330" height="225"  />
 </div> 
 
-## Lenguajes y herramientas
-![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)
-
 ## Sobre mi 👉🙃👈
 
 <p>
@@ -25,6 +22,9 @@ En este 2022 estoy cursando el bootcamp de Henry, donde obtengo los conocimiento
 💼 Portafolio : https://portafolio-marcos-laurens.netlify.app/ <br>
 📞Tel: +54 2355461269
 <p/>
+
+## Lenguajes y herramientas
+![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)
 
 
 ## 📫 Para contactarme 
